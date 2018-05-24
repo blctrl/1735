@@ -1,0 +1,6 @@
+epicsEnvSet("ARCH","win32-x86")
+epicsEnvSet("IOC","iocblc")
+epicsEnvSet("TOP","D:/epics/tmp/blc-1735-fyc/ioc")
+epicsEnvSet("EPICS_BASE","D:\\EPICS\\base-3.14.12.7")
+epicsEnvSet("SUPPORT","D:\\epics\\tmp\\blc-1735-fyc\\support")
+epicsEnvSet("ASYN","D:\\epics\\tmp\\blc-1735-fyc\\support\\asyn")
